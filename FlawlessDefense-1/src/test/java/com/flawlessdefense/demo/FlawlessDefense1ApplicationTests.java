@@ -1,0 +1,13 @@
+package com.flawlessdefense.demo;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class FlawlessDefense1ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
